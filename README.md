@@ -25,27 +25,27 @@ At Framer, this is where our opportunity lies. We are in a unique position to ad
 
 ##### Challenges
 1. Learning to code
-  * Intimidating
-  * Takes a long time to see results
-  * Feels disconnected from the creative process
-  * Coding limits creativity
+  - Intimidating
+  - Takes a long time to see results
+  - Feels disconnected from the creative process
+  - Coding limits creativity
 2. Designs are never built with 100% accuracy
-  * Developers don't understand my designs
-  * Mockups don't always translate to code perfectly
+  - Developers don't understand my designs
+  - Mockups don't always translate to code perfectly
 3. Standard tools only work for limited aspects of design
-  * Cannot explore animation in Sketch/Photoshop
-  * Creating responsive design is complex
-  * Unable to make certain design decisions until I can try out the interface
+  - Cannot explore animation in Sketch/Photoshop
+  - Creating responsive design is complex
+  - Unable to make certain design decisions until I can try out the interface
 
 ##### Goals
 1. Explore every aspect of design
-  * Visual
-  * User Experience
-  * Animation
-  * Creative and new interfaces
+  - Visual
+  - User Experience
+  - Animation
+  - Creative and new interfaces
 2. Nail the implementation faster
-  * Lose less when designs are translated into code
-  * Communicate design ideas more clearly
+  - Lose less when designs are translated into code
+  - Communicate design ideas more clearly
 3. Make functional and beautiful design that we can be proud of!
 
 Our Values at Framer
@@ -80,11 +80,10 @@ Write about the outcome that happens when a designer uses Framer, not just about
 | Import from Sketch/Photoshop | Uses familiar tools, doesn't replace workflow                    |
 | Uses CoffeeScript            | Only need basic coding knowledge, unlike prototyping in HTML/CSS |
 
-#### Overcoming Objections
 Using the knowledge about Framer and our audience, you should answer questions like these in your writing:
-* As a designer, why would I want to prototype in the first place?
-* How is Framer better than other prototyping tools?
-* If I am not comfortable writing code, can I use Framer?
+- As a designer, why would I want to prototype in the first place?
+- How is Framer better than other prototyping tools?
+- If I am not comfortable writing code, can I use Framer?
 
 Content Types & Examples
 ---
