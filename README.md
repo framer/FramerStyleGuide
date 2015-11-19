@@ -14,7 +14,7 @@ This is a living document. Framer's brand will naturally evolve over time, and y
 #### Audience
 The most important part of great writing is understanding the reader. At Framer, we have the luxury of writing for designers. When you write for Framer, remember that our audience is professional, highly skilled, and exceptionally creative. However, Framer's designer audience also represents a spectrum of skills and experience levels. As the line between programming and design continues to blur, so does the definition of Framer's audience. The result is that sometimes a programmer will be using Framer and thus will be reading what you are about to write.
 
-However, don't let this distinction distract you. With all writing for Framer, we default to a specific reader archetype: *An established designer who has limited coding ability.*
+However, don't let this distinction distract you. With all writing for Framer, we default to a specific reader archetype: **An established designer who has limited coding ability.**
 
 Some readers will be advanced coders or even have computer science degrees, but write about Framer as if the reader has basic understanding about programming and significant design experience. This way, the more technically-challenging aspects of using Framer will be less intimidating to our core audience, and the purpose of using Framer will be abundantly clear: achieving great design.
 
