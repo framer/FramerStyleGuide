@@ -23,7 +23,7 @@ The design profession is changing. Coding skill is increasingly becoming a requi
 
 At Framer, this is where our opportunity lies. We are in a unique position to advance the design profession and increase a designer's output while only requiring a small investment to learn simple coding. We're a simple alternative when designing in the browser with HTML and CSS requires a designer to possess substantial knowledge before earning even minimal return.
 
-##### Designer Challenges
+###### Designer Challenges
 1. Learning to code
   - Intimidating
   - Takes a long time to see results
@@ -39,7 +39,7 @@ At Framer, this is where our opportunity lies. We are in a unique position to ad
   - Creating responsive design is complex
   - Unable to make certain design decisions until I can try out the interface
 
-**Designer Goals**  
+###### Designer Goals
 1. Explore every aspect of design
   - Visual
   - User Experience
@@ -52,10 +52,10 @@ At Framer, this is where our opportunity lies. We are in a unique position to ad
 
 3. Make functional and beautiful design that we can be proud of!
 
-#### Our Values at Framer
+###### Our Values at Framer
 Framer is a new kind of design tool: one that changes how designers can shape digital products. Our users are blurring the traditional distinction between designers and developers. Framer adds exploration and discovery to the design process where it was impossible previously.
 
-**Interaction**  
+###### Interaction
 Images and words have dominated how we communicate ideas. With them, we've explained and defined how products work. But they're inadequate to define how products feel. To understand the potential of our ideas, we need to be able to interact with them.
 
 **Creativity**  
