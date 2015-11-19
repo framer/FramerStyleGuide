@@ -1,9 +1,9 @@
-# Framer Writing Style Guide
+#### Framer Writing Style Guide
 Use this style guide as a suggestion for your writing, but not a set of hard rules. Our goal for offering this guide is to align all writing efforts for consistency, but not uniformity. Great writing is expressive and we'd never want to limit you. Use the ideas presented here as a foundation.
 
 This is a living document. Framer's brand will naturally evolve over time, and your writing is a major component in that. So, when you write about Framer, keep in mind our core goals, audience, voice, and tone. However, do challenge us where we need to grow.
 
-## Writing Principles
+##### Writing Principles
 1. Write how you speak.
 2. Avoid programming jargon when possible.
 3. Emphasize an outcome.
