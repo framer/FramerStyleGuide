@@ -55,24 +55,29 @@ At Framer, this is where our opportunity lies. We are in a unique position to ad
 #### Our Values at Framer
 Framer is a new kind of design tool: one that changes how designers can shape digital products. Our users are blurring the traditional distinction between designers and developers. Framer adds exploration and discovery to the design process where it was impossible previously.
 
-**Interaction** - Images and words have dominated how we communicate ideas. With them, we've explained and defined how products work. But they're inadequate to define how products feel. To understand the potential of our ideas, we need to be able to interact with them.
+**Interaction**  
+Images and words have dominated how we communicate ideas. With them, we've explained and defined how products work. But they're inadequate to define how products feel. To understand the potential of our ideas, we need to be able to interact with them.
 
-**Creativity** – Framer offers a playground to tinker with interactivity and learn how to code. Learning to code is challenging, but it's value is inevitable and obvious. Once grasped, the creative possibilities are only limited by your imagination. Many designers see code as a threat to creativity. Framer turns this expectation on its head and empowers creatives to explore ideas in even greater depth.
+**Creativity**  
+Framer offers a playground to tinker with interactivity and learn how to code. Learning to code is challenging, but it's value is inevitable and obvious. Once grasped, the creative possibilities are only limited by your imagination. Many designers see code as a threat to creativity. Framer turns this expectation on its head and empowers creatives to explore ideas in even greater depth.
 
-**Evolution of Design** – The nature of design is always changing, and we see interactive prototyping as the next adaptation. Framer is pushing the profession forward by providing a way to explore more ideas and greater depth. Designs made using Framer along the way are more effective because the designer has control over everything and the freedom to explore every idea. We believe its approach is a logical step for digital creativity. Our community of designers around the world and at companies like Dropbox, Google, Apple, Twitter, Facebook and at Berkeley and Carnegie Mellon think the same.
+**Evolution of Design**  
+The nature of design is always changing, and we see interactive prototyping as the next adaptation. Framer is pushing the profession forward by providing a way to explore more ideas and greater depth. Designs made using Framer along the way are more effective because the designer has control over everything and the freedom to explore every idea. We believe its approach is a logical step for digital creativity. Our community of designers around the world and at companies like Dropbox, Google, Apple, Twitter, Facebook and at Berkeley and Carnegie Mellon think the same.
 
-**Tone** Tone should change with each situation, such as for documentation, support, marketing, etc. When writing for Framer, choose your tone to match the reader's mindset and emotional state. See the examples section below.
+**Tone**  
+Tone should change with each situation, such as for documentation, support, marketing, etc. When writing for Framer, choose your tone to match the reader's mindset and emotional state. See the examples section below.
 
-**Voice** Always consistent--this doesn't change across any content type. While tone is empathetic and dependent upon the reader, voice is about Framer's brand and values. Rely upon the "Our Values at Framer" section above.
+**Voice**  
+Always consistent--this doesn't change across any content type. While tone is empathetic and dependent upon the reader, voice is about Framer's brand and values. Rely upon the "Our Values at Framer" section above.
 
 Here's a list of adjectives describing Framer's voice.
 
-**Aspirational** but not **Pretentious**
-**Ambitious** but not **Grandiose**
-**Creative** but not **Frivolous**
-**Practical** but not **Stuffy**
-**Meticulous** but not **Fussy**
-**Friendly** but not **Funny**
+**Aspirational** but not **Pretentious**  
+**Ambitious** but not **Grandiose**  
+**Creative** but not **Frivolous**  
+**Practical** but not **Stuffy**  
+**Meticulous** but not **Fussy**  
+**Friendly** but not **Funny**  
 
 #### The Benefits of Using Framer
 Write about the outcome that happens when a designer uses Framer, not just about its features.
