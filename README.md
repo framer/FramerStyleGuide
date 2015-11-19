@@ -23,34 +23,34 @@ The design profession is changing. Coding skill is increasingly becoming a requi
 
 At Framer, this is where our opportunity lies. We are in a unique position to advance the design profession and increase a designer's output while only requiring a small investment to learn simple coding. We're a simple alternative when designing in the browser with HTML and CSS requires a designer to possess substantial knowledge before earning even minimal return.
 
-#### Designer Challenges
+##### Designer Challenges
 1. Learning to code
-  a. Intimidating
-  b. Takes a long time to see results
-  c. Feels disconnected from the creative process
-  d. Coding limits creativity
+  - Intimidating
+  - Takes a long time to see results
+  - Feels disconnected from the creative process
+  - Coding limits creativity
 
-2 Designs are never built with 100% accuracy
-  1. Developers don't understand my designs
-  2. Mockups don't always translate to code perfectly
+2. Designs are never built with 100% accuracy
+  - Developers don't understand my designs
+  - Mockups don't always translate to code perfectly
 
-3 Standard tools only work for limited aspects of design
-  1. Cannot explore animation in Sketch/Photoshop
-  2. Creating responsive design is complex
-  3. Unable to make certain design decisions until I can try out the interface
+3. Standard tools only work for limited aspects of design
+  - Cannot explore animation in Sketch/Photoshop
+  - Creating responsive design is complex
+  - Unable to make certain design decisions until I can try out the interface
 
-#### Designer Goals
-- Explore every aspect of design
-  1. Visual
-  2. User Experience
-  3. Animation
-  4. Creative and new interfaces
+##### Designer Goals
+1. Explore every aspect of design
+  - Visual
+  - User Experience
+  - Animation
+  - Creative and new interfaces
 
-- Nail the implementation faster
-  1. Lose less when designs are translated into code
-  2. Communicate design ideas more clearly
+2. Nail the implementation faster
+  - Lose less when designs are translated into code
+  - Communicate design ideas more clearly
 
-- Make functional and beautiful design that we can be proud of!
+3. Make functional and beautiful design that we can be proud of!
 
 #### Our Values at Framer
 Framer is a new kind of design tool: one that changes how designers can shape digital products. Our users are blurring the traditional distinction between designers and developers. Framer adds exploration and discovery to the design process where it was impossible previously.
