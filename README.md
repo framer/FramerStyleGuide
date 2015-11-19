@@ -1,4 +1,4 @@
-# Framer Writing Style Guide
+# Style Guide
 Use this style guide as a suggestion for your writing, but not a set of hard rules. Our goal for offering this guide is to align all writing efforts for consistency, but not uniformity. Great writing is expressive and we'd never want to limit you. Use the ideas presented here as a foundation.
 
 This is a living document. Framer's brand will naturally evolve over time, and your writing is a major component in that. So, when you write about Framer, keep in mind our core goals, audience, voice, and tone. However, do challenge us where we need to grow.
@@ -29,11 +29,9 @@ At Framer, this is where our opportunity lies. We are in a unique position to ad
   * Takes a long time to see results
   * Feels disconnected from the creative process
   * Coding limits creativity
-
 2. Designs are never built with 100% accuracy
   * Developers don't understand my designs
   * Mockups don't always translate to code perfectly
-
 3. Standard tools only work for limited aspects of design
   * Cannot explore animation in Sketch/Photoshop
   * Creating responsive design is complex
@@ -45,11 +43,9 @@ At Framer, this is where our opportunity lies. We are in a unique position to ad
   * User Experience
   * Animation
   * Creative and new interfaces
-
 2. Nail the implementation faster
   * Lose less when designs are translated into code
   * Communicate design ideas more clearly
-
 3. Make functional and beautiful design that we can be proud of!
 
 ##### Our Values at Framer
@@ -83,7 +79,7 @@ Here's a list of adjectives describing Framer's voice.
 Write about the outcome that happens when a designer uses Framer, not just about its features. There are many other prototyping tools available, and discussing the difference in features isn't enough to help users make a decision about which to choose. So, beyond explaining features, demonstrate their value. To do this, you'll rely upon your understanding of designers, their challenges, and their goals. here are some examples:
 
 | Feature                      | Benefit                                                          |
-| ---------------------------- | ---------------------------------------------------------------- |
+| :--------------------------- | :--------------------------------------------------------------- |
 | Animation                    | Explore design in greater depth                                  |
 | Prototype using code         | More control over the interaction                                |
 | Import from Sketch/Photoshop | Uses familiar tools, doesn't replace workflow                    |
