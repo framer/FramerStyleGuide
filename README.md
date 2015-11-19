@@ -24,17 +24,17 @@ The design profession is changing. Coding skill is increasingly becoming a requi
 At Framer, this is where our opportunity lies. We are in a unique position to advance the design profession and increase a designer's output while only requiring a small investment to learn simple coding. We're a simple alternative when designing in the browser with HTML and CSS requires a designer to possess substantial knowledge before earning even minimal return.
 
 #### Designer Challenges
-- Learning to code
-  1. Intimidating
-  2. Takes a long time to see results
-  3. Feels disconnected from the creative process
-  4. Coding limits creativity
+1. Learning to code
+  a. Intimidating
+  b. Takes a long time to see results
+  c. Feels disconnected from the creative process
+  d. Coding limits creativity
 
-- Designs are never built with 100% accuracy
+2 Designs are never built with 100% accuracy
   1. Developers don't understand my designs
   2. Mockups don't always translate to code perfectly
 
-- Standard tools only work for limited aspects of design
+3 Standard tools only work for limited aspects of design
   1. Cannot explore animation in Sketch/Photoshop
   2. Creating responsive design is complex
   3. Unable to make certain design decisions until I can try out the interface
