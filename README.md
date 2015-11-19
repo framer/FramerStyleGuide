@@ -4,7 +4,6 @@ Use this style guide as a suggestion for your writing, but not a set of hard rul
 This is a living document. Framer's brand will naturally evolve over time, and your writing is a major component in that. So, when you write about Framer, keep in mind our core goals, audience, voice, and tone. However, do challenge us where we need to grow.
 
 ### Writing Principles
----
 1. Write how you speak.
 2. Avoid programming jargon when possible.
 3. Emphasize an outcome.
@@ -13,7 +12,6 @@ This is a living document. Framer's brand will naturally evolve over time, and y
 6. Voice and tone are more important than grammar.
 
 ### Audience
----
 The most important part of great writing is understanding the reader. At Framer, we have the luxury of writing for designers. When you write for Framer, remember that our audience is professional, highly skilled, and exceptionally creative. However, Framer's designer audience also represents a spectrum of skills and experience levels. As the line between programming and design continues to blur, so does the definition of Framer's audience. The result is that sometimes a programmer will be using Framer and thus will be reading what you are about to write.
 
 However, don't let this distinction distract you. With all writing for Framer, we default to a specific reader archetype: **an established designer who has limited coding ability.**
@@ -21,7 +19,6 @@ However, don't let this distinction distract you. With all writing for Framer, w
 Some readers will be advanced coders or even have computer science degrees, but write about Framer as if the reader has basic understanding about programming and significant design experience. This way, the more technically-challenging aspects of using Framer will be less intimidating to our core audience, and the purpose of using Framer will be abundantly clear: achieving great design.
 
 ### Challenges & Goals
----
 The design profession is changing. Coding skill is increasingly becoming a requirement, and designers view this as a significant hurdle. They've read the articles and books about how designers should learn to code, but it's overwhelming. These are people who are already experts in one field, and who now feel they must master an expansive second profession simply to continue working.
 
 At Framer, this is where our opportunity lies. We are in a unique position to advance the design profession and increase a designer's output while only requiring a small investment to learn simple coding. We're a simple alternative when designing in the browser with HTML and CSS requires a designer to possess substantial knowledge before earning even minimal return.
@@ -56,22 +53,15 @@ Our Values at Framer
 ---
 Framer is a new kind of design tool: one that changes how designers can shape digital products. Our users are blurring the traditional distinction between designers and developers. Framer adds exploration and discovery to the design process where it was impossible previously.
 
-**Interaction**  
-Images and words have dominated how we communicate ideas. With them, we've explained and defined how products work. But they're inadequate to define how products feel. To understand the potential of our ideas, we need to be able to interact with them.
+**Interaction** - Images and words have dominated how we communicate ideas. With them, we've explained and defined how products work. But they're inadequate to define how products feel. To understand the potential of our ideas, we need to be able to interact with them.
 
-##### Creativity
-Framer offers a playground to tinker with interactivity and learn how to code. Learning to code is challenging, but it's value is inevitable and obvious. Once grasped, the creative possibilities are only limited by your imagination. Many designers see code as a threat to creativity. Framer turns this expectation on its head and empowers creatives to explore ideas in even greater depth.
+**Creativity** - Framer offers a playground to tinker with interactivity and learn how to code. Learning to code is challenging, but it's value is inevitable and obvious. Once grasped, the creative possibilities are only limited by your imagination. Many designers see code as a threat to creativity. Framer turns this expectation on its head and empowers creatives to explore ideas in even greater depth.
 
-##### Evolution of Design
-The nature of design is always changing, and we see interactive prototyping as the next adaptation. Framer is pushing the profession forward by providing a way to explore more ideas and greater depth. Designs made using Framer along the way are more effective because the designer has control over everything and the freedom to explore every idea. We believe its approach is a logical step for digital creativity. Our community of designers around the world and at companies like Dropbox, Google, Apple, Twitter, Facebook and at Berkeley and Carnegie Mellon think the same.
+**Evolution of Design** - The nature of design is always changing, and we see interactive prototyping as the next adaptation. Framer is pushing the profession forward by providing a way to explore more ideas and greater depth. Designs made using Framer along the way are more effective because the designer has control over everything and the freedom to explore every idea. We believe its approach is a logical step for digital creativity. Our community of designers around the world and at companies like Dropbox, Google, Apple, Twitter, Facebook and at Berkeley and Carnegie Mellon think the same.
 
-##### Tone
-Tone should change with each situation, such as for documentation, support, marketing, etc. When writing for Framer, choose your tone to match the reader's mindset and emotional state. See the examples section below.
+**Tone** - Tone should change with each situation, such as for documentation, support, marketing, etc. When writing for Framer, choose your tone to match the reader's mindset and emotional state. See the examples section below.
 
-##### Voice
-Always consistent--this doesn't change across any content type. While tone is empathetic and dependent upon the reader, voice is about Framer's brand and values. Rely upon the "Our Values at Framer" section above.
-
-Here's a list of adjectives describing Framer's voice.
+**Voice** - Always consistent--this doesn't change across any content type. While tone is empathetic and dependent upon the reader, voice is about Framer's brand and values. Rely upon the "Our Values at Framer" section above. Here's a list of adjectives describing Framer's voice.
 
 **Aspirational** but not **Pretentious**  
 **Ambitious** but not **Grandiose**  
@@ -80,7 +70,9 @@ Here's a list of adjectives describing Framer's voice.
 **Meticulous** but not **Fussy**  
 **Friendly** but not **Funny**  
 
-### The Benefits of Using Framer
+
+The Benefits of Using Framer
+---
 Write about the outcome that happens when a designer uses Framer, not just about its features. There are many other prototyping tools available, and discussing the difference in features isn't enough to help users make a decision about which to choose. So, beyond explaining features, demonstrate their value. To do this, you'll rely upon your understanding of designers, their challenges, and their goals. here are some examples:
 
 | Feature                      | Benefit                                                          |
@@ -89,7 +81,6 @@ Write about the outcome that happens when a designer uses Framer, not just about
 | Prototype using code         | More control over the interaction                                |
 | Import from Sketch/Photoshop | Uses familiar tools, doesn't replace workflow                    |
 | Uses CoffeeScript            | Only need basic coding knowledge, unlike prototyping in HTML/CSS |
-
 
 #### Overcoming Objections
 Using the knowledge about Framer and our audience, you should answer questions like these in your writing:
