@@ -1,9 +1,9 @@
-#### Framer Writing Style Guide
+### Framer Writing Style Guide
 Use this style guide as a suggestion for your writing, but not a set of hard rules. Our goal for offering this guide is to align all writing efforts for consistency, but not uniformity. Great writing is expressive and we'd never want to limit you. Use the ideas presented here as a foundation.
 
 This is a living document. Framer's brand will naturally evolve over time, and your writing is a major component in that. So, when you write about Framer, keep in mind our core goals, audience, voice, and tone. However, do challenge us where we need to grow.
 
-##### Writing Principles
+#### Writing Principles
 1. Write how you speak.
 2. Avoid programming jargon when possible.
 3. Emphasize an outcome.
@@ -11,22 +11,12 @@ This is a living document. Framer's brand will naturally evolve over time, and y
 5. Be specific and explicit.
 6. Voice and tone are more important than grammar.
 
-## Audience
-The most important part of great writing is understanding the reader. At Framer, we have the luxury of writing for designers.
+#### Audience
+The most important part of great writing is understanding the reader. At Framer, we have the luxury of writing for designers. When you write for Framer, remember that our audience is professional, highly skilled, and exceptionally creative. However, Framer's designer audience also represents a spectrum of skills and experience levels. As the line between programming and design continues to blur, so does the definition of Framer's audience. The result is that sometimes a programmer will be using Framer and thus will be reading what you are about to write.
 
-When you write for Framer, remember that our audience is professional, highly skilled, and exceptionally creative.
+However, don't let this distinction distract you. With all writing for Framer, we default to a specific reader archetype: *An established designer who has limited coding ability.*
 
-However, Framer's designer audience also represents a spectrum of skills and experience levels. As the line between programming and design continues to blur, so does the definition of Framer's audience.
-
-The result is that sometimes a programmer will be using Framer and thus will be reading what you are about to write.
-
-However, don't let this distinction distract you. With all writing for Framer, we default to a specific reader archetype:
-
-An established designer who has limited coding ability.
-
-Some readers will be advanced coders or even have computer science degrees, but write about Framer as if the reader has basic understanding about programming and significant design experience.
-
-This way, the more technically-challenging aspects of using Framer will be less intimidating to our core audience, and the purpose of using Framer will be abundantly clear: achieving great design.
+Some readers will be advanced coders or even have computer science degrees, but write about Framer as if the reader has basic understanding about programming and significant design experience. This way, the more technically-challenging aspects of using Framer will be less intimidating to our core audience, and the purpose of using Framer will be abundantly clear: achieving great design.
 
 ## Audience Challenges & Goals
 The design profession is changing. Coding skill is increasingly becoming a requirement, and designers view this as a significant hurdle. They've read the articles and books about how designers should learn to code, but it's overwhelming. These are people who are already experts in one field, and who now feel they must master an expansive second profession simply to continue working.
