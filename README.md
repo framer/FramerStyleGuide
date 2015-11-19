@@ -11,16 +11,12 @@ This is a living document. Framer's brand will naturally evolve over time, and y
 5. Be specific and explicit.
 6. Voice and tone are more important than grammar.
 
----
-
 ### Audience
 The most important part of great writing is understanding the reader. At Framer, we have the luxury of writing for designers. When you write for Framer, remember that our audience is professional, highly skilled, and exceptionally creative. However, Framer's designer audience also represents a spectrum of skills and experience levels. As the line between programming and design continues to blur, so does the definition of Framer's audience. The result is that sometimes a programmer will be using Framer and thus will be reading what you are about to write.
 
 However, don't let this distinction distract you. With all writing for Framer, we default to a specific reader archetype: **an established designer who has limited coding ability.**
 
 Some readers will be advanced coders or even have computer science degrees, but write about Framer as if the reader has basic understanding about programming and significant design experience. This way, the more technically-challenging aspects of using Framer will be less intimidating to our core audience, and the purpose of using Framer will be abundantly clear: achieving great design.
-
----
 
 ### Challenges & Goals
 The design profession is changing. Coding skill is increasingly becoming a requirement, and designers view this as a significant hurdle. They've read the articles and books about how designers should learn to code, but it's overwhelming. These are people who are already experts in one field, and who now feel they must master an expansive second profession simply to continue working.
@@ -52,12 +48,11 @@ At Framer, this is where our opportunity lies. We are in a unique position to ad
   * Communicate design ideas more clearly
 3. Make functional and beautiful design that we can be proud of!
 
+Our Values at Framer
 ---
-
-#### Our Values at Framer
 Framer is a new kind of design tool: one that changes how designers can shape digital products. Our users are blurring the traditional distinction between designers and developers. Framer adds exploration and discovery to the design process where it was impossible previously.
 
-##### Interaction
+**Interaction**  
 Images and words have dominated how we communicate ideas. With them, we've explained and defined how products work. But they're inadequate to define how products feel. To understand the potential of our ideas, we need to be able to interact with them.
 
 ##### Creativity
@@ -80,8 +75,6 @@ Here's a list of adjectives describing Framer's voice.
 **Practical** but not **Stuffy**  
 **Meticulous** but not **Fussy**  
 **Friendly** but not **Funny**  
-
----
 
 ### The Benefits of Using Framer
 Write about the outcome that happens when a designer uses Framer, not just about its features. There are many other prototyping tools available, and discussing the difference in features isn't enough to help users make a decision about which to choose. So, beyond explaining features, demonstrate their value. To do this, you'll rely upon your understanding of designers, their challenges, and their goals. here are some examples:
