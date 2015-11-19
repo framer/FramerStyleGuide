@@ -14,16 +14,16 @@ This is a living document. Framer's brand will naturally evolve over time, and y
 #### Audience
 The most important part of great writing is understanding the reader. At Framer, we have the luxury of writing for designers. When you write for Framer, remember that our audience is professional, highly skilled, and exceptionally creative. However, Framer's designer audience also represents a spectrum of skills and experience levels. As the line between programming and design continues to blur, so does the definition of Framer's audience. The result is that sometimes a programmer will be using Framer and thus will be reading what you are about to write.
 
-However, don't let this distinction distract you. With all writing for Framer, we default to a specific reader archetype: **An established designer who has limited coding ability.**
+However, don't let this distinction distract you. With all writing for Framer, we default to a specific reader archetype: **an established designer who has limited coding ability.**
 
 Some readers will be advanced coders or even have computer science degrees, but write about Framer as if the reader has basic understanding about programming and significant design experience. This way, the more technically-challenging aspects of using Framer will be less intimidating to our core audience, and the purpose of using Framer will be abundantly clear: achieving great design.
 
-## Audience Challenges & Goals
+#### Audience Challenges & Goals
 The design profession is changing. Coding skill is increasingly becoming a requirement, and designers view this as a significant hurdle. They've read the articles and books about how designers should learn to code, but it's overwhelming. These are people who are already experts in one field, and who now feel they must master an expansive second profession simply to continue working.
 
 At Framer, this is where our opportunity lies. We are in a unique position to advance the design profession and increase a designer's output while only requiring a small investment to learn simple coding. We're a simple alternative when designing in the browser with HTML and CSS requires a designer to possess substantial knowledge before earning even minimal return.
 
-### Designer Challenges
+#### Designer Challenges
 - Learning to code
   1. Intimidating
   2. Takes a long time to see results
@@ -39,7 +39,7 @@ At Framer, this is where our opportunity lies. We are in a unique position to ad
   2. Creating responsive design is complex
   3. Unable to make certain design decisions until I can try out the interface
 
-### Designer Goals
+#### Designer Goals
 - Explore every aspect of design
   1. Visual
   2. User Experience
@@ -52,13 +52,13 @@ At Framer, this is where our opportunity lies. We are in a unique position to ad
 
 - Make functional and beautiful design that we can be proud of!
 
-## Our Values at Framer
+#### Our Values at Framer
 Framer is a new kind of design tool: one that changes how designers can shape digital products. Our users are blurring the traditional distinction between designers and developers. Framer adds exploration and discovery to the design process where it was impossible previously.
 
-### Interaction
+#### Interaction
 Images and words have dominated how we communicate ideas. With them, we've explained and defined how products work. But they're inadequate to define how products feel. To understand the potential of our ideas, we need to be able to interact with them.
 
-### Creativity
+#### Creativity
 Framer offers a playground to tinker with interactivity and learn how to code. Learning to code is challenging, but it's value is inevitable and obvious. Once grasped, the creative possibilities are only limited by your imagination.
 
 Many designers see code as a threat to creativity. Framer turns this expectation on its head and empowers creatives to explore ideas in even greater depth.
@@ -68,12 +68,12 @@ The nature of design is always changing, and we see interactive prototyping as t
 
 We believe its approach is a logical step for digital creativity. Our community of designers around the world and at companies like Dropbox, Google, Apple, Twitter, Facebook and at Berkeley and Carnegie Mellon think the same.
 
-## Tone
+#### Tone
 Tone should change with each situation, such as for documentation, support, marketing, etc. When writing for Framer, choose your tone to match the reader's mindset and emotional state.
 
 See the examples section below.
 
-## Voice
+#### Voice
 Always consistent--this doesn't change across any content type. While tone is empathetic and dependent upon the reader, voice is about Framer's brand and values. Rely upon the "Our Values at Framer" section above.
 
 Here's a list of adjectives describing Framer's voice.
@@ -90,7 +90,7 @@ Meticulous but not Fussy
 
 Friendly but not Funny
 
-## The Benefits of Using Framer
+#### The Benefits of Using Framer
 Write about the outcome that happens when a designer uses Framer, not just about its features.
 
 There are many other prototyping tools available, and discussing the difference in features isn't enough to help users make a decision about which to choose. So, beyond explaining features, demonstrate their value.
@@ -117,59 +117,56 @@ Uses CoffeeScript
 
 Only need basic coding knowledge, unlike prototyping in HTML/CSS
 
-## Overcoming Objections
+#### Overcoming Objections
 Using the knowledge about Framer and our audience, you should answer questions like these in your writing:
 - As a designer, why would I want to prototype in the first place?
 - How is Framer better than other prototyping tools?
 - If I am not comfortable writing code, can I use Framer?
 
-## Content Types & Examples
-### Documentation
+### Content Types & Examples
+#### Documentation
 While using programming terms is unavoidable, assume basic programming knowledge and avoid advanced concepts if possible. Documentation should explain only Framer's features, and not CoffeeScript, JavaScript, Sketch, Photoshop, etc.
 
 Our documentation is not a programming tutorial, so don't explain programming syntax or methods unless they are unique to Framer. However, do refer the reader to programming tutorials (including our own) where appropriate and when possible. The [CoffeeScript documentation](http://coffeescript.org/#language) is a great resource to suggest.
 
-#### Incorrect
+##### Incorrect
 Printing allows you to inspect variables on runtime. It works similarly to console.log, only when using print, the output is shown directly within your prototype. Note that you need to use print() in Javascript (but not in CoffeeScript). We will omit these in the rest of the docs.
 
 Printing allows you to inspect variables on runtime. It works similarly to console.log, but the output is shown directly on top of your prototype in Framer Studio.
 
-### Marketing
+#### Marketing
 All marketing content should mirror our audience's challenges and suggest a better outcome that is achieved using Framer.
 
-#### Incorrect Headline
+##### Incorrect Headline
 Invent, design and experiment with interaction
 
 This headline is vague and disconnected from our audience's challenges. It does not explain how Framer is different from any other prototyping tool, and worse, does not even indicate that Framer is a prototyping tool.
 
-#### Correct Headline
+##### Correct Headline
 Prototype insightful design with simple-to-learn coding
 
 This new headline addresses the audience's fear of coding while hinting at an outcome: a more insightful design. It also presents Framer as a prototyping tool.
 
-#### Incorrect Sentence
+##### Incorrect Sentence
 Connect pixels to behavior and discover exciting new ways of interaction design.
 
 This sentence is certainly clever, but that cleverness could prevent readers from understanding what Framer does. Further, the outcome is vague: what is a "new way of interaction design"? What about it is exciting?
 
-#### Correct Sentence
+##### Correct Sentence
 Bring your design to life. Try expressive animations and create innovative interactions.
 
 This sentence is more specific and is something designers will get excited about. But, notice it doesn't use the word "exciting". Framer is an exciting product, and simply by explaining it clearly, we can show how exciting it is.
 
-### Transactional
+#### Transactional
 Transactional content, such as the email confirmation and receipt which Framer customers receive after purchase, should be friendly but direct. Keep the writing brief in order to get to the important information.
 
 Don't be overly formal or impersonal; such language can delay getting to the point. Also, the Framer brand is friendly, and we want to build relationships with our users and not seem another stuffy software company.
 
-#### Incorrect
-This notification is just a friendly reminder (not a bill or a second charge) that on Dec 5, 2014, you placed an order from Framer. The charge will appear on your bill as "FS *framerjs.com". This is just a reminder to help you recognize the charge.
+##### Incorrect
+This notification is just a friendly reminder (not a bill or a second charge) that on Dec 5, 2014, you placed an order from Framer. The charge will appear on your bill as "FS framerjs.com". This is just a reminder to help you recognize the charge.
 
---------------------------------------------------------------------------------
 
 Order Summary
-
---------------------------------------------------------------------------------
 
 Order ID: POD141205-6801-73233
 
@@ -177,9 +174,7 @@ Framer Studio
 
 Order Total: $79.99
 
---------------------------------------------------------------------------------
-
-Our customers have found this notice useful in confirming otherwise unknown credit card charges, as "FS *framerjs.com" may not be easily recognizable on your bill.
+Our customers have found this notice useful in confirming otherwise unknown credit card charges, as "FS framerjs.com" may not be easily recognizable on your bill.
 
 We would like to take this opportunity to thank you for your business and look forward to serving you in the future.  Again, this is just a friendly purchase reminder, no response or further action is required.
 
@@ -187,10 +182,10 @@ If needed, a receipt for your purchase can be found here:
 
 [https://sites.fastspring.com/podium/order/invoice/ID-XXXXXX](https://sites.fastspring.com/podium/order/invoice/ID-XXXXXX)
 
-#### Correct
+##### Correct
 On Dec 5, 2014, you purchased Framer at [http://framerjs.com](http://framerjs.com). You will see the $79.99 charge on your credit card statement that looks like this:
 
-"FS *framerjs.com"
+"FS framerjs.com"
 
 Don't worry, you aren't being charged a second time. We just wanted to make sure you know what the charge on your statement is for.
 
